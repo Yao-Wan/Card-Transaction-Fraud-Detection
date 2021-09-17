@@ -35,6 +35,7 @@ A supervised machine learning model in Python
 
 ## Conclusion
 - The fraud algorithms used in this project worked well and helped identify credit card fraud. 
+- By rejecting 3% of the transactions, the model is able to catch out 69.4% frauds.
 - There is room for improvement. A lot of the processes were manual and time consuming; need more research and communicated with domain experts to come up with finer candidate variables more or hyper parameter tuning could provide a better performing model etc.
 
 **Please refer to the report and code files for more detail**
